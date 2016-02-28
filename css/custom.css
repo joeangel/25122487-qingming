@@ -59,9 +59,9 @@ a:hover, a:focus { text-decoration: none; outline: none; color: #fff;}
 /*active*/
 .active {margin: 0 auto; width: 100%; position: relative; height: 560px; min-width: 1200px; background:url(../img/active_bg.png) no-repeat 50% 0;}
 .active .active-box { margin: 0 auto; position: relative; width: 1180px; height: 100%;}
-.active .active-nav { padding-left: 15px; position: absolute; width: 100px; padding-top: 85px;}
-.active .active-inn { position: relative; margin: 0 auto; width: 985px; padding: 120px 60px; height: 100%;}
-.nav0-box, .nav1-box, .nav2-box, .nav3-box, .nav4-box { font-size: 16px; padding-left: 140px; width: 700px; }
+.active .active-nav { padding-left: 137px; position: absolute; padding-top: 115px;}
+.active .active-inn { position: relative; margin: 0 auto; width: 650px; height: 100%;}
+.nav0-box, .nav1-box, .nav2-box, .nav3-box, .nav4-box { font-size: 16px; padding-left: 20px; padding-top: 120px;}
 .nav0-box ul, .nav1-box ul, .nav2-box ul, .nav3-box ul, .nav4-box ul { padding: 15px 0; width: 300px}
 
 .active .active-inn li a {color: #363636; font-weight: bold;}
