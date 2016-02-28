@@ -3,6 +3,7 @@
 /* CSS reset */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin: 0; padding: 0;}
 html,body {padding: 0; margin: 0;}
+body {overflow: scroll; }
 table {border-collapse:collapse; border-spacing: 0;}
 img { border: 0;}
 address,caption,cite,code,dfn,th,var {font-style: normal; font-weight: normal;}
@@ -14,7 +15,7 @@ table td {border: 1px solid}
 iframe {width: 100%; height: 280px}
 
 /*page style*/
-body {background-color:#f0f0f0; background-image:url(../img/bg.jpg);background-attachment: fixed;}
+body {background-color:#f0f0f0; background-image:url(../img/bg.jpg); }
 p,a { color: #fff;}
 a:hover, a:focus { text-decoration: none; outline: none; color: #fff;}
 .wrapper { position: relative; width: 100%; margin: 0 auto; min-width: 1200px;}
@@ -60,7 +61,7 @@ a:hover, a:focus { text-decoration: none; outline: none; color: #fff;}
 .active {margin: 0 auto; width: 100%; position: relative; height: 560px; min-width: 1200px; background:url(../img/active_bg.png) no-repeat 50% 0;}
 .active .active-box { margin: 0 auto; position: relative; width: 1180px; height: 100%;}
 .active .active-nav { padding-left: 137px; position: absolute; padding-top: 115px;}
-.active .active-inn { position: relative; margin: 0 auto; width: 650px; height: 100%;}
+.active .active-inn { position: relative; margin: 0 auto; width: 630px; height: 100%;}
 .nav0-box, .nav1-box, .nav2-box, .nav3-box, .nav4-box { font-size: 16px; padding-left: 20px; padding-top: 120px;}
 .nav0-box ul, .nav1-box ul, .nav2-box ul, .nav3-box ul, .nav4-box ul { padding: 15px 0; width: 300px}
 
