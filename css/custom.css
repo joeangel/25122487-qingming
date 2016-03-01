@@ -56,7 +56,7 @@ a:hover, a:focus { text-decoration: none; outline: none; color: #fff;}
 
 /*design*/
 .design {margin: 0 auto; width: 100%; position: relative; background:url(../img/design_bg.png) no-repeat 50% 0; height: 560px; min-width: 1200px;}
-.design-box {padding-left: 286px; padding-top: 160px; margin: 0 auto; position: relative; width: 1180px; height: 100%;}
+.design-box {padding-left: 286px; padding-top: 194px; margin: 0 auto; position: relative; width: 1180px; height: 100%;}
 .design-box img {width:610px;}
 
 /*active*/
