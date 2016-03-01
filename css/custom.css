@@ -5,11 +5,12 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,
 html,body {padding: 0; margin: 0;}
 body {overflow: scroll; }
 table {border-collapse:collapse; border-spacing: 0;}
+body, table td {font-family: "Open Sans", "微軟正黑體", Arial, sans-serif;}
 img { border: 0;}
 address,caption,cite,code,dfn,th,var {font-style: normal; font-weight: normal;}
 ol,ul { list-style: none;}
 h1,h2,h3,h4,h5,h6 {padding: 10px 0; font-family: Arial, sans-serif;}
-p,a { font-family: "Open Sans", "微軟正黑體", Arial, sans-serif; font-size: 15px; line-height: 21px;}
+p,a { font-size: 15px; line-height: 21px;}
 table {border: 1px solid;}
 table td {border: 1px solid}
 iframe {width: 100%; height: 280px; min-width: 100%; *width: 100%;}
