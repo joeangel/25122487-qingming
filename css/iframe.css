@@ -2,7 +2,7 @@
 
 /* CSS reset */
 table {border-collapse:collapse; border-spacing: 0;}
-body{ font-family: "Open Sans", "微軟正黑體", Arial, sans-serif; line-height: 1.5;}
+body, table td { font-family: "Open Sans", "微軟正黑體", Arial, sans-serif; line-height: 1.5;}
 table {border: 1px solid;}
 table td {border: 1px solid;}
 
